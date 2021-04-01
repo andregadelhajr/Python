@@ -1,0 +1,5 @@
+N1 = int(input('Digite um primeiro valor para o calculo:'))
+N2 = int(input('Digite um primeiro valor para o calculo:'))
+N3 = int(input('Digite um primeiro valor para o calculo:'))
+print('A soma dos tres valores é: ')
+print(N1 + N2 + N3)
